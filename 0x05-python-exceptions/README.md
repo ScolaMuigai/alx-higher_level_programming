@@ -23,4 +23,4 @@
 * Style guidelines: [PEP 8 (version 1.7)](https://www.python.org/dev/peps/pep-0008/)
 ---
 ### Authors
-Robert Kamau Njonjo
+Scholastica Wambui Muigai
